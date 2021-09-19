@@ -1,0 +1,22 @@
+body {
+    color: snow;
+    background-image: url(strawberry.jpg);
+  
+  }
+  
+  h1 {
+    color: rgb(219, 188, 188);
+    text-align: center;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    opacity: 0.4;
+  }
+  .copyright {
+    color:#042d5a
+
+  }
+  
+
